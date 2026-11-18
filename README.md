@@ -1,5 +1,7 @@
 Hi, I’m Shubham 👋
+
 Python Developer | Backend Developer | Software Engineer
+
 I’m a Computer Science graduate specializing in Data Science, interested in building practical software solutions, backend systems, and AI-powered applications.
 I enjoy solving problems, learning new technologies, and turning ideas into working applications.
 🛠️ Technical Skills
