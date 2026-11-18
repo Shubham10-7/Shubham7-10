@@ -42,12 +42,14 @@ View Project⁠￼
 💼 Experience
 
 Python Development Intern — Vinayak IT Solutions
+	
 	●	Developed Flask-based web applications.
 	●	Worked with MySQL databases and SQL queries.
 	●	Built REST APIs and CRUD functionality.
 	●	Practiced debugging, application development and Agile workflows.
 	
 📚 Currently Improving
+	
 	●	Data Structures and Algorithms
 	●	Python backend development
 	●	Django REST Framework
@@ -56,6 +58,7 @@ Python Development Intern — Vinayak IT Solutions
 	●	Software engineering best practices
 	
 🤝 Connect With Me
+	
 	●	LinkedIn: https://www.linkedin.com/in/shubham-gunde/
 	●	GitHub: https://github.com/Shubham10-7
 	
